@@ -1,0 +1,17 @@
+{
+	"name": "command-executer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Anton Larichev",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^8.2.0"
+	},
+	"devDependencies": {
+		"@types/inquirer": "^8.2.0"
+	}
+}
